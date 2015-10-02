@@ -1,4 +1,3 @@
-# PlantMonitor
 
 Created: 26-09-2015
 
