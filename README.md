@@ -15,5 +15,5 @@ Once the right values have been obtained, replace values in map() function in th
 
 
 #####Created by:
-Shravan Kanagokar  
-Trevor Loren
+[Shravan Kanagokar](https://github.com/shrvn-k)  
+[Trevor Loren](https://github.com/tloren)
